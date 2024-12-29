@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+98WIN - Sân chơi uy tín với đa dạng trò chơi và khuyến mãi hấp dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`98WIN <https://98wint2.me/>`_ là một sân chơi uy tín hàng đầu, mang đến đa dạng trò chơi giải trí như Nổ hũ, Bắn cá, Game bài, Thể thao, Casino, Đá gà và Xổ số. Với hệ thống bảo mật an toàn tuyệt đối và nhiều chương trình khuyến mãi hấp dẫn, 98wint2.me là lựa chọn lý tưởng cho những ai đam mê cá cược và giải trí chất lượng. 98wint2.me, đối tác chính thức của 98WIN tại Việt Nam, cung cấp trải nghiệm chơi game đỉnh cao với tỷ lệ cược cạnh tranh và giao diện dễ sử dụng, giúp người chơi khám phá cơ hội chiến thắng vô tận.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 462 Mã Lò, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0912628127. 
 
-Contents
---------
+Email: info@98wint2.me. 
 
-.. toctree::
+Website: https://98wint2.me/ 
 
-   usage
-   api
+#98win #trangchu98win #dangky98win #dangnhap98win #link98win #linkvao98win #game98win
